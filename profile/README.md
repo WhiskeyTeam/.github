@@ -3,6 +3,7 @@
 우리는 Whiskey야. 코드 치는 알콜중독자들 모임이지.
 버그는 우리한테 술이고 기능은 안주라고 봐.
 밤새 코딩하다 보면 정신이 몽롱해지는데, 그게 Whiskey의 맛이랄까?
+
 ![image](https://github.com/user-attachments/assets/459c307e-fbae-443f-8328-c6695dfa7da6)
 
 
@@ -19,4 +20,5 @@ Whiskey 개발팀, 우리가 바로 코드계의 은하철도 999야.
 버그를 향해 질주하지.
 
 우리랑 함께 달릴 준비 됐어? 레츠고~
+
 ![image](https://github.com/user-attachments/assets/88ce4082-957c-4ee3-9f6b-adb91f9b77a0)
